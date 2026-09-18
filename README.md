@@ -2,7 +2,7 @@
 
 `f2t` builds a text tree diagram from a filesystem directory.
 
-It is the counterpart to [`t2f`]([https://example.com/t2f]), which creates files and directories from a text tree.
+It is the counterpart to [`t2f`]([[https://example.com/t2f]](https://github.com/Sorcerers-Curse/t2f)), which creates files and directories from a text tree.
 
 ## Features
 
